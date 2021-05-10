@@ -1,0 +1,6 @@
+G:\VSProject\CSharp\ASCII_Sort\ASCII_Sort\bin\Debug\ASCII_Sort.exe.config
+G:\VSProject\CSharp\ASCII_Sort\ASCII_Sort\bin\Debug\ASCII_Sort.exe
+G:\VSProject\CSharp\ASCII_Sort\ASCII_Sort\bin\Debug\ASCII_Sort.pdb
+G:\VSProject\CSharp\ASCII_Sort\ASCII_Sort\obj\Debug\ASCII_Sort.csprojAssemblyReference.cache
+G:\VSProject\CSharp\ASCII_Sort\ASCII_Sort\obj\Debug\ASCII_Sort.exe
+G:\VSProject\CSharp\ASCII_Sort\ASCII_Sort\obj\Debug\ASCII_Sort.pdb
